@@ -1,0 +1,25 @@
+{
+  "name": "benefit-ui-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benfish1025/benefit-ui-demo1.git"
+  },
+  "keywords": [
+    "vue.js"
+  ],
+  "author": "benfish1025",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benfish1025/benefit-ui-demo1/issues"
+  },
+  "homepage": "https://github.com/benfish1025/benefit-ui-demo1#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
+}
